@@ -141,6 +141,8 @@ bush
 bye
 bypass
 calm
+can
+candy
 captivate
 captive
 car
@@ -160,6 +162,8 @@ cheek
 cheese
 cheif
 chicken
+chill
+chilled
 chocolate
 choice
 chop
@@ -201,6 +205,8 @@ conglomerate
 congress
 conviction
 cook
+cool
+cooled
 copper
 correspondence
 counter
@@ -359,6 +365,7 @@ figs
 figure
 fill
 film
+final
 finance
 find
 fingers
@@ -372,6 +379,7 @@ fix
 flatware
 fleet
 fleeting
+float
 flock
 flow
 flower
@@ -496,6 +504,7 @@ housing
 human
 hut
 i
+ice
 ier
 if
 ill
@@ -534,6 +543,7 @@ llama
 loaf
 lock
 locket
+loki
 long
 look
 love
@@ -568,6 +578,7 @@ names
 never
 night
 nine
+not
 nugget
 nuke
 observed
@@ -608,6 +619,7 @@ pollo
 pony
 pookie
 poor
+potato
 power
 property
 pull
@@ -688,6 +700,7 @@ te
 television
 ten
 than
+thank
 that
 them
 then
@@ -703,6 +716,7 @@ till
 tim
 timmih
 timmy
+tin
 tnt
 toilet
 top
@@ -726,6 +740,8 @@ wall
 watch
 water
 waterbottle
+weak
+week
 wensday
 what
 which
